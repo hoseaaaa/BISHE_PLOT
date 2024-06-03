@@ -1,0 +1,7 @@
+	   SA-AMG	ANN-AMG
+ibmpg1	0.72	0.62
+ibmpg2	0.61	0.50
+ibmpg3	0.71	0.67
+ibmpg4	0.64	0.60
+ibmpg5	0.85	0.72
+ibmpg6	0.85	0.74

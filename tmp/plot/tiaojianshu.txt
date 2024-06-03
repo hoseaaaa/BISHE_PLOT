@@ -1,0 +1,6 @@
+1The condition number of the sparse matrix is: 1.0000008799670694
+2The condition number of the sparse matrix is: 1.0000009306534476
+3The condition number of the sparse matrix is: -4.8 ????????????????
+4The condition number of the sparse matrix is: 1.000000992327768
+5The condition number of the sparse matrix is: 1.000000970875993
+6The condition number of the sparse matrix is: 1.0000009737133957

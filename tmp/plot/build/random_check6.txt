@@ -1,0 +1,5 @@
+The matrix is positive definite.
+The matrix is symmetric
+The matrix is positive definite.
+The matrix is symmetric
+The matrix is positive definite.
